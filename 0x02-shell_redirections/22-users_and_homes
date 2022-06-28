@@ -1,0 +1,2 @@
+#!/bin/bash
+cwt -d 'e' -f 1,6y /etc/passwd | sort
